@@ -1,133 +1,121 @@
 {
-    "basics": {
-        "name": "Siddhartha Varshney",
-        "label": "Student",
-        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
-        "email": "2021kuec2034@iiitkota.ac.in",
-        "phone": "+919389713047",
-        "website": "",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
-        "location": {
-            "address": "Budaun",
-            "postalCode": "243726",
-            "city": "Budaun",
-            "countryCode": " India",
-            "region": "Uttar Pradesh"
-        },
-        "profiles": [
-            {
-                "network": "",
-                "username": "",
-                "url": ""
-            },
-            {
-                "network": "Github",
-                "username": "Siddhartha-306",
-                "url": "https://github.com/Siddhartha-306"
-            },
-            {
-                "network": "linkedin",
-                "username": "Siddhartha Varshney",
-                "url": "https://www.linkedin.com/in/siddhartha-varshney-162b00228"
-            },
-            {
-                "network": "Instagram",
-                "username": "siddhartha_306",
-                "url": "https://instagram.com/siddhartha_306"
-            }
-        ]
-    },
-    "work": [
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        }
-    ],
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor (hons)",
-            "startDate": "",
-            "endDate": "",
-            "gpa": "",
-            "courses": [
-                "Electronics and Communication Engineering"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "",
-            "awarder": "",
-            "date": ""
-        }
-    ],
-    "publications": [
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        }
-    ],
-    "skills": [
-        {
-            "name": "",
-            "level": "",
-            "keywords": [
-               
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "",
-            "keywords": [
-                ""
-            ]
-        },
-        {
-            "name": "Playing",
-            "keywords": [
-                "Chess",
-                "Badminton"
-            ]
-        }
-    ]
-}+
+	"basics": {
+		"name": "Siddhartha Varshney",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kuec2034@iiitkota.ac.in",
+		"phone": "+919389713047",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+		"location": {
+			"address": "Budaun",
+			"postalCode": "243726",
+			"city": "Budaun",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "Github",
+				"username": "Siddhartha-306",
+				"url": "https://github.com/Siddhartha-306"
+			},
+			{
+				"network": "linkedin",
+				"username": "Siddhartha Varshney",
+				"url": "https://www.linkedin.com/in/siddhartha-varshney-162b00228"
+			},
+			{
+				"network": "Instagram",
+				"username": "siddhartha_306",
+				"url": "https://instagram.com/siddhartha_306"
+			}
+		]
+	},
+	"work": [{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		}
+	],
+	"skills": [{
+		"name": "",
+		"level": "",
+		"keywords": [
+
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "",
+			"keywords": [
+				""
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Badminton"
+			]
+		}
+	]
+}
